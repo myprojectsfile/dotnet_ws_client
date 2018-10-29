@@ -1,0 +1,14 @@
+E:\Projects\dotnetws\bin\Debug\netcoreapp2.1\dotnetws.deps.json
+E:\Projects\dotnetws\bin\Debug\netcoreapp2.1\dotnetws.runtimeconfig.json
+E:\Projects\dotnetws\bin\Debug\netcoreapp2.1\dotnetws.runtimeconfig.dev.json
+E:\Projects\dotnetws\bin\Debug\netcoreapp2.1\dotnetws.dll
+E:\Projects\dotnetws\bin\Debug\netcoreapp2.1\dotnetws.pdb
+E:\Projects\dotnetws\obj\Debug\netcoreapp2.1\dotnetws.csprojAssemblyReference.cache
+E:\Projects\dotnetws\obj\Debug\netcoreapp2.1\dotnetws.csproj.CoreCompileInputs.cache
+E:\Projects\dotnetws\obj\Debug\netcoreapp2.1\dotnetws.RazorAssemblyInfo.cache
+E:\Projects\dotnetws\obj\Debug\netcoreapp2.1\dotnetws.RazorAssemblyInfo.cs
+E:\Projects\dotnetws\obj\Debug\netcoreapp2.1\dotnetws.AssemblyInfoInputs.cache
+E:\Projects\dotnetws\obj\Debug\netcoreapp2.1\dotnetws.AssemblyInfo.cs
+E:\Projects\dotnetws\obj\Debug\netcoreapp2.1\dotnetws.RazorTargetAssemblyInfo.cache
+E:\Projects\dotnetws\obj\Debug\netcoreapp2.1\dotnetws.dll
+E:\Projects\dotnetws\obj\Debug\netcoreapp2.1\dotnetws.pdb
